@@ -21,7 +21,7 @@ insert into produtos(tipo, nome, modelo, quantidade, preco) values("Eletrônico"
 insert into produtos(tipo, nome, modelo, quantidade, preco) values("Roupa", "Camisa", "Lacoste", 250, 99.99 );
 insert into produtos(tipo, nome, modelo, quantidade, preco) values("Roupa", "Calça", "Jeans", 100, 59.50);
 insert into produtos(tipo, nome, modelo, quantidade, preco) values("Casa", "Cortina", "Amorim", 10, 399.99 );
-insert into produtos(tipo, nome, modelo, quantidade, preco) values("Casa", "", "Vaso", 50, 55.89 );
+insert into produtos(tipo, nome, modelo, quantidade, preco) values("Casa", "Vaso", "Vaso", 50, 55.89 );
 insert into produtos(tipo, nome, modelo, quantidade, preco) values("Eletrodomésticos", "Geladeira", "brastemp", 600, 2899.99 );
 insert into produtos(tipo, nome, modelo, quantidade, preco) values("Eletrodomésticos", "Máquina de lavar", "Cônsul", 635, 1379.99 );
 
