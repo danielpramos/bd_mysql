@@ -1,2 +1,2 @@
 # bd_mysql
-Banco de Dados MySQL
+Banco de Dados MySQL Bootcamp Generation Brazil
